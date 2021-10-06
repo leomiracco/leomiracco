@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center"><b>:wave: Hi! I'm Juan :wave:</b></h1>
+<h1 align="center"><b>:wave: Hi! I'm Leo :wave:</b></h1>
 <p align="center">:computer: <b>Full Stack Developer | DevOps Engineer</b> :computer:</p>
 <hr>
 <p align="center">
